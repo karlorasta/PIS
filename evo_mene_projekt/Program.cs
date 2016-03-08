@@ -10,7 +10,12 @@ namespace evo_mene_projekt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+
             Console.WriteLine("mahinalno");
+
+            Console.WriteLine("Dunno C# surry");
+            //C# bonanza ----------------- grinding to infinity
+
         }
     }
 }
