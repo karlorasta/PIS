@@ -9,6 +9,7 @@ namespace evo_mene_projekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
         }
     }
 }
