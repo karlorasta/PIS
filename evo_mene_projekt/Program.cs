@@ -11,6 +11,7 @@ namespace evo_mene_projekt
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Dunno C# surry");
+            //C# bonanza ----------------- grinding to infinity
         }
     }
 }
